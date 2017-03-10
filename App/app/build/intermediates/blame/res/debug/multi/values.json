@@ -1,0 +1,329 @@
+[
+    {
+        "outputFile": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 57,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 55,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 53,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 52,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 45,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 51,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 43,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 49,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 37,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 41,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 52,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 40,
+                    "endOffset": 677
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 682,
+                    "endColumn": 56,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 53,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 46,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 241,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 78,
+                    "endOffset": 1156
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1161,
+                    "endColumn": 69,
+                    "endOffset": 1226
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1231,
+                    "endColumn": 49,
+                    "endOffset": 1276
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1281,
+                    "endColumn": 74,
+                    "endOffset": 1351
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1356,
+                    "endColumn": 30,
+                    "endOffset": 1382
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 38,
+                        "endOffset": 643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1387,
+                    "endColumn": 44,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1515,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1582
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1587,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 2138
+                },
+                "from": {
+                    "file": "C:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH-Admin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\MLH-Admin\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_f834935fca866b189b6f052395eceb532f40cc5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH-Admin\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\libs\libmuse_android.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e756fe8826070e7f2a88030bf3dcfdf68a625905">
+        <dex dex="C:\Users\MLH-Admin\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\libmuse_android_681d517d4b4e4749e38f33f4a3a6766dc6847905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH-Admin\.android\build-cache\d6e6d0423ad2abb66de7303298adf36c1b7309a2\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\MLH-Admin\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_890ed4bb46ac2460b34c97baa2741e3811915502.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MLH-Admin\.android\build-cache\d6e6d0423ad2abb66de7303298adf36c1b7309a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\MLH-Admin\libmuse_6.0.0\android\examples\TestLibMuseAndroid\app\build\intermediates\pre-dexed\debug\classes_033178d59deca5438c0f6b58c07f7083b11cd882.jar" />
+    </item>
+
+</items>

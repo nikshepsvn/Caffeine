@@ -1,0 +1,4 @@
+#Sat Mar 04 22:13:30 EST 2017
+base.0=C\:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
+renamed.0=classes.dex
+file.0=C\:\\Users\\MLH-Admin\\libmuse_6.0.0\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
