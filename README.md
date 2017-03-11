@@ -44,7 +44,6 @@ As you can see, this is clearly a very pressing issue.
 •Based on this, we calculate when to trigger the alarm system to alert the driver. 
 
 •The alarm system automatically turns off when the driver regains alertness.
-![c4ef218c4edf3cmuse-black](http://liveanddare.com/wp-content/uploads/2015/03/muse-headband-review.jpg)
 
 ## Future Goals and Updates for Caffeine: 
 
