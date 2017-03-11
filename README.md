@@ -45,3 +45,10 @@ As you can see, this is clearly a very pressing issue.
 
 •The alarm system automatically turns off when the driver regains alertness.
 ![c4ef218c4edf3cmuse-black](https://cloud.githubusercontent.com/assets/23586027/23636831/c7d7340a-02a5-11e7-8e4b-31d0860e733e.png)
+
+## Future Goals and Updates for Caffeine: 
+
+• Add an automatic trigger that fires and reports location and other information to police if user does not respond to alarm for more than 5 seconds.
+
+
+
