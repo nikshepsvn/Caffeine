@@ -1,5 +1,5 @@
 # Caffeine
-An app that makes roads safe for you and for everyone!
+A project designed to keep drivers alert while driving and make roads safer for all of us.
 
 **2nd Prize at StartHacks 2017**
 
@@ -10,11 +10,17 @@ alt="Live Demo" width="150" height="150" border="10" /></a>
 
 ## Motivation behind the hack:
 
+This hack was inspired by my dad. Our family went on vacation every year, and every year we would head out in the night so we could reach the place the next morning and enjoy the rest of the day. My dad was the one who drove the car everytime. One night while we were driving, I noticed that he was very visibly blinking and having a hard time to stay awake. We (my mom and I) noticed and forced him to take a break since he was so tired. We took some rest (all of us slept in the car) and then departed to our destination later in the morning. From that incident I saw how this might be a problem to many people., how they could doze off easily without having anyone to alert them. Hence, we created Caffeiene.
+
+Here are some stats :
+
 •100,000 police-reported crashes are the direct result of driver fatigue each year.
 
 •This results in an estimated 1,550 deaths and 71,000 injuries 
 
 •Results $12.5 billion in monetary losses.
+
+As you can see, this is clearly a very pressing issue.
 
 ## What the hack does: 
 
