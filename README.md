@@ -5,7 +5,7 @@ An app that makes roads safe for you and for everyone!
 
 ### Live video demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SrqXLN80N_A
-" target="_blank"><img src="http://www.youtube.com/watch?feature=player_embedded&v=SrqXLN80N_A" 
+" target="_blank"><img src="https://ih0.redbubble.net/image.25011287.7046/flat,1000x1000,075,f.u1.jpg" 
 alt="Live Demo" width="240" height="180" border="10" /></a>
 
 ## Motivation behind the hack:
