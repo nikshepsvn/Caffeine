@@ -30,7 +30,7 @@ As you can see, this is clearly a very pressing issue.
 
 •We do this by causing a sound and a vibration to trigger whenever needed.
 
-![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](https://cloud.githubusercontent.com/assets/23586027/23636757/546595c0-02a5-11e7-8d96-e05fe429402d.png) 
+![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](http://liveanddare.com/wp-content/uploads/2015/03/muse-headband-review.jpg) 
 
 
 ## How our hack works: 
