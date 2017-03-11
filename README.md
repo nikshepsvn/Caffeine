@@ -3,6 +3,8 @@ A project designed to keep drivers alert while driving and make roads safer for 
 
 **2nd Prize at StartHacks 2017**
 
+![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](http://www.nikshepsvn.com/media/caffeine.png) 
+
 ### Live video demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SrqXLN80N_A
 " target="_blank"><img src="https://ih0.redbubble.net/image.25011287.7046/flat,1000x1000,075,f.u1.jpg" 
@@ -29,8 +31,6 @@ As you can see, this is clearly a very pressing issue.
 •Reminds drivers to not use their phones while driving. 
 
 •We do this by causing a sound and a vibration to trigger whenever needed.
-
-![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](http://www.nikshepsvn.com/media/caffeine.png) 
 
 
 ## How our hack works: 
