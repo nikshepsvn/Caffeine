@@ -30,7 +30,7 @@ As you can see, this is clearly a very pressing issue.
 
 •We do this by causing a sound and a vibration to trigger whenever needed.
 
-![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](http://liveanddare.com/wp-content/uploads/2015/03/muse-headband-review.jpg) 
+![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](http://www.nikshepsvn.com/media/caffeine.png) 
 
 
 ## How our hack works: 
@@ -44,7 +44,7 @@ As you can see, this is clearly a very pressing issue.
 •Based on this, we calculate when to trigger the alarm system to alert the driver. 
 
 •The alarm system automatically turns off when the driver regains alertness.
-![c4ef218c4edf3cmuse-black](https://cloud.githubusercontent.com/assets/23586027/23636831/c7d7340a-02a5-11e7-8e4b-31d0860e733e.png)
+![c4ef218c4edf3cmuse-black](http://liveanddare.com/wp-content/uploads/2015/03/muse-headband-review.jpg)
 
 ## Future Goals and Updates for Caffeine: 
 
