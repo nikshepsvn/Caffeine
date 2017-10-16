@@ -3,7 +3,7 @@ A project designed to keep drivers alert while driving and make roads safer for 
 
 **2nd Prize at StartHacks 2017**
 
-![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](http://www.nikshepsvn.com/media/caffeine.png) 
+![c537646c53700d17101526_1751508008196543_1912768317_o_nexus6p-portrait](http://nikshepsvn.com/images/gallery/projects/caffeine.png) 
 
 ### Live video demo
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=SrqXLN80N_A
